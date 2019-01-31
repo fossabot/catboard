@@ -1,4 +1,6 @@
 # Catboard
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fibnteo%2Fcatboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fibnteo%2Fcatboard?ref=badge_shield)
+
 
 Homemade Ergoromic compact keyboard
 
@@ -41,3 +43,5 @@ Ability to use different keys on the thumb, it is convenient and Shift on the le
 ## License
 
 GPL2
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fibnteo%2Fcatboard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fibnteo%2Fcatboard?ref=badge_large)
